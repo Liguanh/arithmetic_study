@@ -1,1 +1,1 @@
-#arithmetic_study 常见算法学习
+# arithmetic_study 常见算法学习
